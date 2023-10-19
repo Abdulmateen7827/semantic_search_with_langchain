@@ -1,0 +1,10 @@
+langchain
+openai
+pypdf
+pydub
+yt_dlp
+chromadb
+tiktoken
+panel
+"langchain[docarray]"
+lark
