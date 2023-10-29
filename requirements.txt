@@ -8,3 +8,5 @@ tiktoken
 panel
 "langchain[docarray]"
 lark
+mlflow
+requests

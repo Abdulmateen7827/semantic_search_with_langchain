@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/232928765080776323/7cead94579b74183b92772a5b78b5d8e/artifacts
+end_time: 1698078342079
+entry_point_name: ''
+experiment_id: '232928765080776323'
+lifecycle_stage: active
+run_id: 7cead94579b74183b92772a5b78b5d8e
+run_name: peaceful-foal-463
+run_uuid: 7cead94579b74183b92772a5b78b5d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698078310449
+status: 3
+tags: []
+user_id: abdulmateen
