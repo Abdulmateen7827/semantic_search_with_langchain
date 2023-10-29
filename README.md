@@ -1,1 +1,2 @@
-# semantic_search_with_langchain
+# Document search with Langchain + Fastapi + docker
+
