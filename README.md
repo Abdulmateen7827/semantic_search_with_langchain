@@ -6,17 +6,17 @@ It uses Fastapi to create a web server to interact with the application and spin
 ## Project overview
 The model used is the openai GPT-3.5-turbo model to create the chatbot.
 
-- Document Loading
+- Document Loading :
 Documents are loaded from a specified file using the PyPDFLoader.
 The loaded documents are split into smaller chunks for further processing.
 
-- Embedding
+- Embedding :
 The project uses OpenAIEmbeddings to generate embeddings for the document chunks.
 
-- Vector Database
+- Vector Database :
 A vector database is created using DocArrayInMemorySearch, which allows for efficient document retrieval based on similarity.
 
-- Chatbot Chain
+- Chatbot Chain :
 A conversational retrieval chain is established. It uses the chatbot model, retriever, and a memory buffer to store conversation history.
 
 ## How to run the project?
